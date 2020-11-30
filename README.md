@@ -6,14 +6,5 @@ Im a Computer Engineer, software developer
 - I love programming and tech
 
 - Tech that i use: 
-  | Javascript | TypeScript 🟨
-    | React
-    | Node JS
-    | Gatsby
-    | Next JS
-  | Python                  🟦
-    | Flask
-  | Ruby
-    | Ruby on Rails         🟥
-    | Sinatra 
+  | Javascript | TypeScript | Ruby | Python
    
