@@ -10,3 +10,5 @@ Im a Computer Engineer, software developer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angel-zepeda&langs_count=8&layout=compact)](https://github.com/angel-zepeda)
 [![Angel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=angelzepedawaka)](https://github.com/angel-zepeda)
 ![Angel's github stats](https://github-readme-stats.vercel.app/api?username=angel-zepeda&layout=compact&show_icons=true)
+
+![alt nodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
