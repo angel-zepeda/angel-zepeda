@@ -14,8 +14,8 @@ Im a Computer Engineer, software developer
 ![alt nodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
 ![alt reacJS](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)
 ![alt typescript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
-![alt ruby](https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-vertical.svg)
-![alt python](https://www.vectorlogo.zone/logos/python/python-vertical.svg)
+![alt ruby](https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg)
+![alt python](https://www.vectorlogo.zone/logos/python/python-horizontal.svg)
 ![alt expressJS](https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg)
 ![alt mongodb](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)
 
