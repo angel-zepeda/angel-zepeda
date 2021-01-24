@@ -6,4 +6,7 @@ Im a Computer Engineer, software developer
 - I love programming and tech
 
   Javascript | TypeScript | Ruby | Python | Node
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
    
