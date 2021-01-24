@@ -7,5 +7,5 @@ Im a Computer Engineer, software developer
 
   Javascript | TypeScript | Ruby | Python | Node
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/angel-zepeda)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angel-zepeda&layout=compact)](https://github.com/angel-zepeda)
 
