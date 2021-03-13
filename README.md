@@ -12,5 +12,4 @@ I'm a Computer Engineer, software developer
 ![alt mongodb](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)
 ![alt nodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
 ![alt reactJS](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)
-![alt ruby](https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg)
-![alt go](https://www.vectorlogo.zone/logos/golang/golang-icon.svg)
+
