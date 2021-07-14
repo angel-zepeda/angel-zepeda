@@ -4,7 +4,6 @@ I'm a Computer Engineer, software developer
 
 - I'm 23 years old and I love programming and tech
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=angel-zepeda)
 [![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angel-zepeda&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angel-zepeda&langs_count=8&layout=compact)](https://github.com/angel-zepeda)
