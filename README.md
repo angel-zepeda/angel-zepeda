@@ -8,8 +8,8 @@ I'm a Computer Engineer, software developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angel-zepeda&langs_count=8&layout=compact)](https://github.com/angel-zepeda)
 
-![alt typescript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
+<!-- ![alt typescript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
 ![alt expressJS](https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg)
 ![alt mongodb](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)
 ![alt nodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg)
-![alt reactJS](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)
+![alt reactJS](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg) -->
