@@ -2,7 +2,7 @@
 My name is Angel de Jesus Zepeda Torres
 I'm a Computer Engineer, software developer
 
-- I'm 23 years old and I love programming and tech
+- I'm 24 years old and I love programming and tech
 
 ### Languages
 
