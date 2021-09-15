@@ -1,4 +1,4 @@
-## Hi there!🚀🌌
+## Hi there!🚀🎖
 My name is Angel de Jesus Zepeda Torres
 I'm a Computer Engineer, software developer
 
