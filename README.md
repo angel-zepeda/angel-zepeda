@@ -14,7 +14,7 @@ I'm a Computer Engineer, software developer
 
 
 <a href="https://github.com/angel-zepeda">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=angel-zepeda&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=angel-zepeda&include_all_commits=true&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel-zepeda&layout=compact&theme=vue">
 </a>
 
