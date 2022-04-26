@@ -11,8 +11,16 @@ I'm a Computer Engineer, software developer
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 
+
+
+<a href="https://github.com/angel-zepeda">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=angel-zepeda&show_icons=true&include_all_commits=true&custom_title=GitHub+Stats&theme=vue">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angel-zepeda&layout=compact&theme=vue">
+</a>
+
+<!-- 
 [![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=angel-zepeda&count_private=true&show_icons=true&include_all_commits=true&layout=compact&include_all_prs=true)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angel-zepeda&langs_count=8&layout=compact)](https://github.com/angel-zepeda) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angel-zepeda&langs_count=8&layout=compact)](https://github.com/angel-zepeda) -->
 
 <!-- ![alt typescript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)
 ![alt expressJS](https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg)
