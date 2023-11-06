@@ -15,12 +15,12 @@ Hi, I'm Angel Zepeda!
 <br/>
 
 <hr>
-
+<pre>
 💻 I am a self-taught Full Stack Developer.
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🌟 Main languages: Javascript
 🚩 Interested in Full Stack Web Application Development
-
+</pre>
 <hr>
 
 ## 🤝 Connect with me
