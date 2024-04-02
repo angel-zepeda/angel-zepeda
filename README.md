@@ -5,9 +5,7 @@ Hi, I'm Angel Zepeda!
 	</a>
 </h1>
 <p align="center">
-	<a href="https://github.com/angel-zepeda">
-		<img src="https://komarev.com/ghpvc/?username=angel-zepeda&label=Profile%20views&color=0e75b6&style=flat" alt="angel-zepeda" />
-	</a>
+	
 	<a href="https://github.com/angel-zepeda">
 		<img src="https://img.shields.io/github/followers/angel-zepeda?label=Followers" alt="angel-zepeda" />
 	</a>
