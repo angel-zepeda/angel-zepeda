@@ -4,12 +4,6 @@ Hi, I'm Angel Zepeda!
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
-<p align="center">
-	
-	<a href="https://github.com/angel-zepeda">
-		<img src="https://img.shields.io/github/followers/angel-zepeda?label=Followers" alt="angel-zepeda" />
-	</a>
-</p>
 <br/>
 
 <hr>
